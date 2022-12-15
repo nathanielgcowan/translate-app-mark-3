@@ -5,17 +5,17 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>AAAAA</title>
+        <title>BBBBB</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          AAAAA
+          BBBBB
         </h1>
 
         <p className={styles.description}>
-          AAAAA
+          BBBBB
         </p>
 
         <div className={styles.grid}>
